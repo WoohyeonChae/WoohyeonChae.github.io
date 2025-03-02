@@ -22,8 +22,9 @@ archives:
 # - {name: 'Stellar Structures', url: 'stellar-structures'}
 
 social:
-- {icon: 'github', link: 'https://github.com/WoohyeonChae'}
+- {icon: 'google', link: 'mailto:codngus19248@gmail.com'}
 - {icon: 'instagram', link: 'https://instagram.com/uhyeon.c'}
+- {icon: 'github', link: 'https://github.com/WoohyeonChae'}
 
 contacts:
 - {name: 'Woohyeon Chae', title: 'Student', department: 'Theoretical Physics & Programming', institution: 'Some University', institution_address: 'Seoul, Republic of Korea', phone: '(+82) 10 6438 7810', email: 'codngus19248@gmail.com', office: 'Gyeonggi Science High School', image: 'assets/img/contact.jpg'}
