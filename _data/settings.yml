@@ -6,6 +6,11 @@ menu:
 - {name: 'Archives', url: '/archives'}
 - {name: 'Contact', url: '/contact'}
 
+archives:
+- {name: 'Researches & Theses', url: 'researches&theses'}
+- {name: 'Lecture Notes', url: 'lecture-notes'}
+- {name: 'Problems', url: 'problems'}
+
 # people:
 # - {name: 'Primary Investigator', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/primary-investigator.jpg', url: 'primary-investigator'}
 # - {name: 'Lab Technician', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/lab-technician.jpg', url: 'lab-technician'}
