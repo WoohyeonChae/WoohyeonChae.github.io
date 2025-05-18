@@ -23,4 +23,4 @@ title: "Lecture Notes"
 
 ##### Magnetic Levitation
 
-* [Magnetic Levitation](/archives/lecture-notes/sci/magnetic-levitation.pdf)
+* [Mathmatical Structure of General Relativity](/archives/lecture-notes/sci/GR.pdf)
