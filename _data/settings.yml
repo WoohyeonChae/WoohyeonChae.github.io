@@ -9,7 +9,7 @@ menu:
 archives:
 - {name: 'Researches & Thesis', url: 'researches-and-thesis'}
 - {name: 'Lecture Notes', url: 'lecture-notes'}
-- {name: 'Problems', url: 'problems'}
+- {name: 'Study Notes & Problems', url: 'study-notes-and-problems'}
 
 # people:
 # - {name: 'Primary Investigator', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/primary-investigator.jpg', url: 'primary-investigator'}
