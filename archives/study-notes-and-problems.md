@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "Problems"
+title: "Study Notes & Problems"
 ---
-This page will be helpful for korean students, cause I attached some tips for problems with korean.
+This page will be helpful for korean students, cause I also studied these with Korean Declaration.
 
 &nbsp;
 
